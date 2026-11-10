@@ -8,6 +8,7 @@ Les fraises sélectionées sont:
  - End mill SpeTool SP-D4-L22-D
  - Ball nose Dreanique R0.5-20.5-D4-HSi
  - Ball nose Dreanique R1.0-20.5-D4-HSi
+ - Surfacing bit XCAN 4T 6x25.4x45mm
 
 ## Utilisation
 
