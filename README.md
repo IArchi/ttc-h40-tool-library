@@ -13,9 +13,9 @@ Les fraises sélectionées sont:
 ## Utilisation
 
 Il faut sélectionner la bonne fraise, avec la bonne matière et pour la bonne opération.
-Par exemple le réglage `SP-D6-H6-D [CP Bouleau] | Poche` correspond à la fraise Down Cut 2F 6mm dans du contre plaqué bouleau et est adapté à l'opération Pocket.
+Par exemple le réglage `[PLY] SP-D6-H6-D | Poche` correspond à la fraise Down Cut 2F 6mm dans du contre plaqué et est adapté à l'opération Pocket.
 
-Le réglage `SP1F-D6-L22 [MDF] | Détourage | Molette 3` correspond à la fraise Up cut 1F 6mm pour usiner du MDF sur une opération de détourage. Comme j'ai pris le réglage pour la Makita, je dois la régler sur la molette 3 (17k RPM).
+Le réglage `[MDF] SP1F-D6-L22 | Détourage | Molette 3` correspond à la fraise Up cut 1F 6mm pour usiner du MDF sur une opération de détourage. Comme j'ai pris le réglage pour la Makita, je dois la régler sur la molette 3 (17k RPM).
 
 ## Remarques
 
@@ -24,4 +24,5 @@ Idéalement, il faut mettre une rampe pour entrer dans la matière.
 
 ## Usinage 3D
 L'ébauche 3D (Roughing) : Utiliser la fraise SP-D4 (4mm). Elle va retirer le plus gros de la matière rapidement en faisant des paliers (marches d'escalier). On laisse une surépaisseur de 0,5 mm.
+
 La finition 3D (Finishing) : Changer d'outil pour la Ball Nose. Elle va suivre fidèlement les courbes du relief. L'usinage sera long (parfois plusieurs heures), mais le résultat au sortir de la machine est spectaculaire. Utiliser la fraise de 0.5mm pour avoir un rendu parfait.
